@@ -1,1 +1,1 @@
-# Guia de Confituração NodeJs/VueJs
+# Guia de Configuração NodeJs/VueJs
