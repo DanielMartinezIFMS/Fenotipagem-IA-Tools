@@ -1,1 +1,1 @@
-# Memória Python / Pytorth / nVidia CUDA / ONNX
+# Memória de Implementação Python / Pytorth / nVidia CUDA / ONNX
