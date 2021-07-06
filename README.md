@@ -4,6 +4,7 @@ O Objetivo do projeto é unificar os modelos de deep learning usados nos projeto
 
 ![diagrama](phenotools.png)
 
-Memória do Conhecimento
-  python/pytorth
-  nodeJs/VueJs
+> Memória do Conhecimento
+
+ * [python/pytorth](memoria/pytorth/README.md)
+ * [nodeJs/VueJs]()
