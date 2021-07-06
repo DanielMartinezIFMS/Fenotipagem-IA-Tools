@@ -1,0 +1,1 @@
+# Memória de Implementação NoSql
