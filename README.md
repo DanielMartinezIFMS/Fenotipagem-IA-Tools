@@ -6,7 +6,7 @@ O Objetivo do projeto é unificar os modelos de deep learning usados nos projeto
 
 > Memória do Conhecimento
 
- * [python/pytorth/onnx/nVidea CUDA](memoria/pytorth/README.md)
- * [nodejs/vueJs](memoria/nodejs/README.md)
+ * [Python/pytorth/onnx/nVidea CUDA](memoria/pytorth/README.md)
+ * [Nodejs/vueJs](memoria/nodejs/README.md)
  * [NoSql](memoria/nosql/README.md)
  * [Docker](memoria/docker/README.md)
