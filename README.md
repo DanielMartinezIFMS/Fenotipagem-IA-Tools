@@ -13,5 +13,7 @@ Unificar os modelos de deep learning usados nos projetos da embrapa fenotipagem,
  * [Docker](memoria/docker/README.md)
 
 https://dahtah.github.io/imager/imager.html#quick-start
+
 https://www.youtube.com/channel/UCJ_ZXrpzvmF4rgSI8W_inyQ
+
 https://www.frontiersin.org/articles/10.3389/fpls.2017.01190/full
